@@ -1,1 +1,1 @@
-# bujo
+# Bullet Journal web page.
